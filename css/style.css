@@ -546,7 +546,7 @@ img {
 .main-header .header-upper .logo-box .logo img {
   position: relative;
   display: inline-block;
-  width: 170px;
+  width: 135px;
   max-height: 34px;
   z-index: 1;
 }
